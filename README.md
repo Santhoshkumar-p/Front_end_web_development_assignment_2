@@ -1,2 +1,2 @@
 # Front_end_web_development_assignment_2
-Session_1_Assignment_2
+Session_2_Assignment_2_All
